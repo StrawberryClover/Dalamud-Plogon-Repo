@@ -5,13 +5,13 @@
         "Punchline": "It provides more immersive flavor text.",
         "Description": "My garbage quality plugin to help me learn how to work with Dalamud.\r\nSomewhat of a RP toolkit, so far it only provides immersive flavor text.",
         "InternalName": "rpToolkit",
-        "AssemblyVersion": "0.1.0",
+        "AssemblyVersion": "0.1.1",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "RepoUrl": "https://github.com/StrawberryClover/ImmersiveFlavorText",
         "IconUrl": "https://cdn.iconscout.com/icon/free/png-256/rain-drops-1671402-1422407.png",
-		"Changelog": "Hello, world!",
+		"Changelog": "- Restyled configuration window slightly.\r\n- Added configuration options for minimum and maximum pickpocket amount.\r\n- Increased how often time diverges from static values",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/StrawberryClover/Dalamud-Plogon-Repo/raw/main/ImmersiveFlavorText/latest.zip",
         "IsHide": false,
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/StrawberryClover/Dalamud-Plogon-Repo/raw/main/ImmersiveFlavorText/latest.zip",
         "DownloadLinkUpdate": "https://github.com/StrawberryClover/Dalamud-Plogon-Repo/raw/main/ImmersiveFlavorText/latest.zip",
         "DownloadCount": 69,
-        "LastUpdate": "1670737529"
+        "LastUpdate": "1670743073"
     }
 ]
