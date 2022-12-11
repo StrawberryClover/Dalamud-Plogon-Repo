@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "Grinjr",
+        "Name": "Immersive Flavor Text",
+        "Punchline": "It provides more immersive flavor text.",
+        "Description": "My garbage quality plugin to help me learn how to work with Dalamud.\r\nSomewhat of a RP toolkit, so far it only provides immersive flavor text.",
+        "InternalName": "rpToolkit",
+        "AssemblyVersion": "0.1.0",
+        "RepoUrl": "https://github.com/StrawberryClover/ImmersiveFlavorText",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://cdn.iconscout.com/icon/free/png-256/rain-drops-1671402-1422407.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/StrawberryClover/Dalamud-Plogon-Repo/main/ImmersiveFlavorText/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/StrawberryClover/Dalamud-Plogon-Repo/main/ImmersiveFlavorText/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/StrawberryClover/Dalamud-Plogon-Repo/main/ImmersiveFlavorText/latest.zip",
+        "DownloadCount": 69,
+        "LastUpdate": "1670736001"
+    }
+]
