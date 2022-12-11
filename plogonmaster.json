@@ -8,7 +8,7 @@
         "AssemblyVersion": "0.1.0",
         "RepoUrl": "https://github.com/StrawberryClover/ImmersiveFlavorText",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://cdn.iconscout.com/icon/free/png-256/rain-drops-1671402-1422407.png",
         "ImageUrls": [],
