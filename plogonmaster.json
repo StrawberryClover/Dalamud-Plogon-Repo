@@ -11,7 +11,7 @@
         "LoadPriority": 0,
         "RepoUrl": "https://github.com/StrawberryClover/ImmersiveFlavorText",
         "IconUrl": "https://cdn.iconscout.com/icon/free/png-256/rain-drops-1671402-1422407.png",
-		"Changelog": "- New prompt for when rain stops to put away your umbrella\rn- Rain prompts should now adjust position based on screen size, will probably improve later?",
+		"Changelog": "Updated to new version of Dalamud",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/StrawberryClover/ImmersiveFlavorText/releases/download/v0.1.4/latest.zip",
         "IsHide": false,
