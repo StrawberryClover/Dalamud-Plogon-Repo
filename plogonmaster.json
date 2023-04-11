@@ -11,7 +11,7 @@
         "LoadPriority": 0,
         "RepoUrl": "https://github.com/StrawberryClover/ImmersiveFlavorText",
         "IconUrl": "https://cdn.iconscout.com/icon/free/png-256/rain-drops-1671402-1422407.png",
-	"Changelog": "- Added climate data for zones: Mist, Old Sharlayan, Eulmore, Doman Enclave, Yanxia\r\n- Added climate data for sub zones: Hells' Lid, Restricted Archives, Eulmore Derelicts, Skyfront, Zero's Domain, Storm's Crown\r\n- Added climate data for duties: The Whorleater, Castrum Fluminis, Alzadaal's Legacy, Limitless Blue, Howling Eye, Dancing Plague, Emanation, Thornmarch, Fell Court of Troia\r\n- Changed climate data for: The Bowl of Embers\r\n- Added new biome type: Volcanic Region, Crystalline\r\n- Added new weather: Gales (Howling Eye)\r\n- [Feature] The temperature now cools off in the shade, proportional to how hot it is. This is an extremely experimental feature, and it doesn't work the best - For example, the shade of tree leaves will not cool you off because there is no collision on them, and for some reason all of Rak'tika is considered shade. As such, you can disable this option in the configuration.\r\n- [Feature] Can now segregate zones into subzones or sub areas, allowing for more diverse temperature control depending on what area of the zone you are in",
+	"Changelog": "- [Feature] Added support for diversity in messages\r\n- [Feature] Swimming or diving will now cool you off (but not being wet, unfortunately)\r\n- Added climate data for duties: Halatali\r\n- Added climate data for sub areas: Quicksand",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/StrawberryClover/ImmersiveFlavorText/releases/download/v0.2.6/latest.zip",
         "IsHide": false,
