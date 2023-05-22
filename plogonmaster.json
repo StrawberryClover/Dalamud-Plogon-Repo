@@ -16,10 +16,10 @@
         "DownloadLinkInstall": "https://github.com/StrawberryClover/ImmersiveFlavorText/releases/download/v0.3.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/StrawberryClover/ImmersiveFlavorText/releases/download/v0.3.0/latest.zip",
+        "DownloadLinkTesting": "https://github.com/StrawberryClover/ImmersiveFlavorText/raw/dev/RPToolkit/Test%20Build/latest.zip",
         "DownloadLinkUpdate": "https://github.com/StrawberryClover/ImmersiveFlavorText/releases/download/v0.3.0/latest.zip",
         "DownloadCount": 69,
-        "LastUpdate": "1684305751",
+        "LastUpdate": "1684748878",
 	"AcceptsFeedback": true
     }
 ]
