@@ -31,7 +31,7 @@
 		"InternalName": "AggroRangeVisualizer",
 		"AssemblyVersion": "0.0.1",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 8,
+		"DalamudApiLevel": 9,
 		"LoadPriority": 0,
 		"RepoUrl": "https://github.com/StrawberryClover/AggroRangeVisualizer",
 		"IconUrl": "https://static.wikia.nocookie.net/dofus/images/f/f1/AggroRange2.png",
